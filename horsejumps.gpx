@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gpx
+ version="1.1"
+ creator="Global Mapper - http://www.globalmapper.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+ </metadata>
+<wpt lat="40.560765" lon="-105.171544">
+ <ele>1693.393</ele>
+ <time>2015-06-21T17:44:09Z</time>
+ <name>TRIPLE HOUSE LARGE</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.560774" lon="-105.171580">
+ <ele>1693.03</ele>
+ <time>2015-06-21T17:43:43Z</time>
+ <name>TRIPLE HOUSE MEDIUM</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.560776" lon="-105.171640">
+ <ele>1692.046</ele>
+ <time>2015-06-21T17:43:10Z</time>
+ <name>TRIPLE HOUSE SMALL</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561090" lon="-105.172980">
+ <ele>1703.014</ele>
+ <time>2015-06-21T17:37:40Z</time>
+ <name>TRAINING ROLL TOP</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561967" lon="-105.172971">
+ <ele>1693.477</ele>
+ <time>2015-06-21T17:32:25Z</time>
+ <name>TRAINING TABLE</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.560013" lon="-105.172033">
+ <ele>1688.525</ele>
+ <time>2015-06-21T17:48:57Z</time>
+ <name>BUNKER TRAINING</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.560175" lon="-105.172087">
+ <ele>1689.834</ele>
+ <time>2015-06-21T17:47:26Z</time>
+ <name>BUNKER BEGINNER</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.560204" lon="-105.172053">
+ <ele>1689.35</ele>
+ <time>2015-06-21T17:46:55Z</time>
+ <name>BUNKER INTRO</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.560043" lon="-105.171995">
+ <ele>1680.489</ele>
+ <time>2015-06-21T17:48:16Z</time>
+ <name>BUNKER NOVICE</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561238" lon="-105.172820">
+ <ele>1698.076</ele>
+ <time>2015-06-21T17:35:02Z</time>
+ <name>CORNER</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.556820" lon="-105.170830">
+ <ele>1685.092</ele>
+ <time>2015-06-21T17:54:23Z</time>
+ <name><![CDATA[DOUBLE MEDIUM & LARGE ROCK WALL]]></name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561974" lon="-105.173062">
+ <ele>1692.584</ele>
+ <time>2015-06-21T17:31:48Z</time>
+ <name>NOVICE TABLE</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561174" lon="-105.172638">
+ <ele>1699.777</ele>
+ <time>2015-06-21T17:35:40Z</time>
+ <name>INTRO ROLL TOP</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561274" lon="-105.171877">
+ <ele>1691.976</ele>
+ <time>2015-06-21T17:41:19Z</time>
+ <name>NOVICE LOG AND WALL</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561048" lon="-105.172863">
+ <ele>1702.21</ele>
+ <time>2015-06-21T17:36:54Z</time>
+ <name>NOVICE ROLL TOP</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561011" lon="-105.172742">
+ <ele>1700.459</ele>
+ <time>2015-06-21T17:36:21Z</time>
+ <name>BEGINNER ROLL TOP</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561032" lon="-105.171852">
+ <ele>1693.877</ele>
+ <time>2015-06-21T17:41:55Z</time>
+ <name>NOVICE ROLL TOP</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561006" lon="-105.171871">
+ <ele>1689.069</ele>
+ <time>2015-06-21T17:42:29Z</time>
+ <name>INTRO LOG PILE</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561971" lon="-105.173175">
+ <ele>1700.018</ele>
+ <time>2015-06-21T17:30:20Z</time>
+ <name>INTRO TABLE</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561982" lon="-105.173115">
+ <ele>1700.556</ele>
+ <time>2015-06-21T17:31:11Z</time>
+ <name>BEGINNER TABLE</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+<wpt lat="40.561642" lon="-105.172508">
+ <ele>1691.326</ele>
+ <time>2015-06-21T17:33:26Z</time>
+ <name>TREKEHNER</name>
+ <desc>Horsejump</desc>
+ <sym>Dot - Blue</sym>
+</wpt>
+ <extensions>
+ </extensions>
+</gpx>
